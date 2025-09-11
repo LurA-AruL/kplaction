@@ -349,13 +349,7 @@
     }
   ],
   "auctionResults": [
-    {
-      "id": "1757266147466",
-      "playerId": "3",
-      "price": 1000,
-      "buyerId": "1",
-      "status": "SOLD to Super five"
-    }
+   
   ],
   "playerHistory": [],
   "users": [
