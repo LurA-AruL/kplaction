@@ -39,21 +39,9 @@
       "strikeRate": 95
     },
     {
-      "id": "4",
-      "name": "David",
-      "role": "Batsman",
-      "basePrice": 1000,
-      "image": "/images/david.jpg",
-      "specialty": "Right-hand bat, Technical",
-      "matches": 17,
-      "runs": 480,
-      "average": 28.2,
-      "strikeRate": 88
-    },
-    {
       "id": "7",
       "name": "Ravindar",
-      "role": "Al-Rounder",
+      "role": "Batsman",
       "basePrice": 1000,
       "image": "/images/sample.jpg",
       "specialty": "Right-hand bat, Aggressive",
@@ -246,8 +234,8 @@
       "strikeRate": 88
     },
     {
-      "id": "24",
-      "name": "bharani",
+      "id": "25",
+      "name": "Love Boy",
       "role": "Batsman",
       "basePrice": 1000,
       "image": "/images/bharani.jpeg",
@@ -263,32 +251,31 @@
       "id": "1",
       "name": "Super five",
       "owner": "Sivaram K",
-      "initialBudget": 100000,
+      "initialBudget": 200000,
       "color": "#080807ff",
       "bgColor": "#1F4788",
       "logo": "🦁"
     },
     {
       "id": "2",
-      "name": "Five Stars",
+      "name": "The Lions ",
       "owner": "Arun Raj",
-      "initialBudget": 100000,
+      "initialBudget": 200000,
       "color": "#004BA0",
       "bgColor": "#FFFFFF",
       "logo": "🔵"
     },
     {
       "id": "3",
-      "name": "Love stars",
-      "owner": "Love Mani",
-      "initialBudget": 100000,
+      "name": "Love Stars",
+      "owner": "Love Mani ",
+      "initialBudget": 200000,
       "color": "#EC1C24",
       "bgColor": "#000000",
       "logo": "👑"
     }
   ],
-  "auctionResults": [
-  ],
+  "auctionResults": [],
   "playerHistory": [],
   "users": [
     {
