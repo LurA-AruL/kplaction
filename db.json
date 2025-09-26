@@ -227,16 +227,16 @@
       "id": "1",
       "name": "Super five",
       "owner": "Sivaram K",
-      "initialBudget": 200000,
+      "initialBudget": 300000,
       "color": "#080807ff",
       "bgColor": "#1F4788",
       "logo": "🦁"
     },
     {
       "id": "2",
-      "name": "The Lions ",
+      "name": "The Lions",
       "owner": "Arun Raj",
-      "initialBudget": 200000,
+      "initialBudget": 300000,
       "color": "#004BA0",
       "bgColor": "#FFFFFF",
       "logo": "🔵"
@@ -244,8 +244,8 @@
     {
       "id": "3",
       "name": "Love Stars",
-      "owner": "Love Mani ",
-      "initialBudget": 200000,
+      "owner": "Love Mani",
+      "initialBudget": 300000,
       "color": "#EC1C24",
       "bgColor": "#000000",
       "logo": "👑"
@@ -265,8 +265,8 @@
     {
       "id": "2",
       "name": "Auctioneer User",
-      "email": "auctioneer@kpl.com",
-      "password": "auctioneer123",
+      "email": "arul@kpl.com",
+      "password": "arul@123",
       "role": "auctioneer",
       "createdAt": "2024-01-01T00:00:00.000Z"
     },
@@ -277,46 +277,13 @@
       "password": "buyer123",
       "role": "buyer",
       "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "1757263413326",
-      "name": "arul",
-      "email": "arul@gmain.com",
-      "password": "123456",
+    },{
+      "id": "4",
+      "name": "Auctioneer User",
+      "email": "kplreview@gamil.com",
+      "password": "kpl1234",
       "role": "buyer",
-      "createdAt": "2025-09-07T16:43:33.326Z"
-    },
-    {
-      "id": "1757263577825",
-      "name": "arulmanikandan",
-      "email": "arula@gmain.com",
-      "password": "123456",
-      "role": "auctioneer",
-      "createdAt": "2025-09-07T16:46:17.825Z"
-    },
-    {
-      "id": "1757263683091",
-      "name": "arulmanikandan",
-      "email": "aarul@gmain.com",
-      "password": "123456",
-      "role": "viewer",
-      "createdAt": "2025-09-07T16:48:03.091Z"
-    },
-    {
-      "id": "1757265467307",
-      "name": "arul",
-      "email": "view@gmain.com",
-      "password": "123456",
-      "role": "buyer",
-      "createdAt": "2025-09-07T17:17:47.307Z"
-    },
-    {
-      "id": "1757528144034",
-      "name": "ji",
-      "email": "ji@gmail.com",
-      "password": "123456",
-      "role": "buyer",
-      "createdAt": "2025-09-10T18:15:44.034Z"
+      "createdAt": "2024-01-01T00:00:00.000Z"
     }
   ]
 }
