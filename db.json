@@ -220,6 +220,42 @@
       "runs": 480,
       "average": 26.7,
       "strikeRate": 88
+    },
+    {
+      "id": "23",
+      "name": "Dass",
+      "role": "Batsman",
+      "basePrice": 5000,
+      "image": "/images/aakash.jpeg",
+      "specialty": "Left-hand bat, Technical",
+      "matches": 18,
+      "runs": 480,
+      "average": 26.7,
+      "strikeRate": 88
+    },
+    {
+      "id": "24",
+      "name": "Raj Mam's",
+      "role": "Batsman",
+      "basePrice": 5000,
+      "image": "/images/aakash.jpeg",
+      "specialty": "Left-hand bat, Technical",
+      "matches": 18,
+      "runs": 480,
+      "average": 26.7,
+      "strikeRate": 88
+    },
+    {
+      "id": "25",
+      "name": "vinoth",
+      "role": "Batsman",
+      "basePrice": 5000,
+      "image": "/images/aakash.jpeg",
+      "specialty": "Left-hand bat, Technical",
+      "matches": 18,
+      "runs": 480,
+      "average": 26.7,
+      "strikeRate": 88
     }
   ],
   "buyers": [
